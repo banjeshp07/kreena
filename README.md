@@ -1,4 +1,4 @@
-# Kreena - Luxury Portfolio Website
+# Krina - Luxury Portfolio Website
 
 A premium, modern, and fully responsive portfolio website built for Krina Gindra (Events & Marketing).
 
